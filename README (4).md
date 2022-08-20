@@ -54,8 +54,8 @@ Correcting this assessments takes time. Please be patient with regards to gettin
 ### Self assessment
 
 - After you finish the challenge, go and fill up this form:
-
-👉 [Redux Challenge Form](https://forms.gle/tu8j6iRM2EV8GZHdA)
+  )
+  👉 [Redux Challenge Form](https://forms.gle/tu8j6iRM2EV8GZHdA
 
 ### What to expect after submitting this challenge?
 
@@ -105,7 +105,7 @@ const initialState = {
     { id: 3, blocked: true, limit: 700, max: 4000 },
     { id: 4, blocked: false, limmit: 100, max: 500 },
   ],
-  privateMode: false
+  privateMode: false,
 };
 ```
 
@@ -160,7 +160,7 @@ When checking our bank accounts in public or showing something to someone, we do
 A lot of times, we don't want all our money in our checking account, just maybe enough for the month and the rest goes into savings. Savings accounts also have benefit of giving you some interest back. Let's add that possibility to our app.
 
 - Add the functionality to transfer money from savings account to checking account and vice-versa
-- You can not transfer more money than it's available in any of the accounts. None of them can go under 0. 
+- You can not transfer more money than it's available in any of the accounts. None of them can go under 0.
 
 ### ❗ Feature 6 - Add Credit Cards and Validate
 
